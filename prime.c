@@ -19,3 +19,8 @@ for(i=2;i<num;i++)
 }
 printf("%d is  a prime number",num);
 }
+
+// prime number=2,3,5,7,11,13
+
+
+
