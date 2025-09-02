@@ -21,3 +21,7 @@ int main()
 	}
 	
 }
+
+
+Armstrong number= 1, 153, 370, 371,407
+
